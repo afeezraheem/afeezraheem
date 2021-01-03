@@ -6,4 +6,4 @@
 - 💬 Ask me about Machine Learning, Macroeconomic Modelling & Forecasting, ETL, Data warehousing, Corporate Valuation
 - 📫 How to reach me: afeezraheem48@gmail.com | 403-671-7683
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am intrigued by how data analytics tools and AI would impact influenced by public policy decisions
+- ⚡ Fun fact: I am intrigued by how data analytics and AI would impact public policy decisions

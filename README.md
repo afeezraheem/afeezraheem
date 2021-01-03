@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data Science and Public Policy Application
 - 🌱 I’m currently learning Data Science and Analytics
-- 👯 I’m looking to collaborate on Data Science & Machine Learning
+- 👯 I’m looking to collaborate on Data Science & Machine Learning Projects
 - 💬 Ask me about Data Science & Machine Learning
 - 📫 How to reach me: afeezraheem48@gmail.com | 403-671-7683
 - 😄 Pronouns: He/His

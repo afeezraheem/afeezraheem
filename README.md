@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Science and Public Policy Application
+- 🔭 I’m currently working on Data Science and Public Policy Applications
 - 🌱 I’m currently learning Data Science and Analytics
 - 👯 I’m looking to collaborate on Data Science & Machine Learning Projects in any business areas
 - 💬 Ask me about Machine Learning, Macroeconomic Modelling & Forecasting, ETL, Data warehousing, Corporate Valuation

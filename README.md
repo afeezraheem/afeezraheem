@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Science and Public Policy Application
 - 🌱 I’m currently learning Data Science and Analytics
 - 👯 I’m looking to collaborate on Data Science & Machine Learning
